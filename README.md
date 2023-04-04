@@ -1,3 +1,14 @@
+# Getting Started
+
+- Clone the repo locally 
+- `cd` into the top level dir
+- `npm install`
+- create a `.env` file
+- add the key, `REACT_APP_ALCHEMY_API_KEY=`
+- and then, add your `Alchemy API KEY`
+
+
+
 # Ethereum Block Explorer
 
 The lessons this week covered the Ethereum JSON-RPC API and the `ethers.js` library giving us the ability to query the Ethereum blockchain and make transactions!
